@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+im+PWAQWE;Linux+Enjoyer+%7C+Distro+Hopper+%7C+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+im+PWAQWE;Linux+Enjoyer+%7C+Distro+Hopper+%7C+Rizz" />
 </div>
 
 <br>
