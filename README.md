@@ -69,8 +69,8 @@
   <a href="https://getfedora.org/"><img src="./Fedora_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.qubes-os.org/"><img src="./Qubes_OS_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://bazzite.org/"><img src="./Bazzite_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://getfedora.org/en/workstation/nobara/"><img src="./Nobara.jpg" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/red-hat-enterprise-linux"><img src="./redhat.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://nobaraproject.org/"><img src="./Nobara.jpg" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/red-hat-enterprise-linux"><img src="./redhatL.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
 ---
