@@ -30,51 +30,51 @@
 
 ## 🏹 Arch-based
 <p align="center">
-  <img src="./Arch_Linux__Crystal__icon.svg.png" width="52" />
-  <img src="./Archcraft-alternative-logo.svg.png" width="52" />
-  <img src="./Artix_logo.svg.png" width="52" />
-  <img src="./CachyOS_Logo.svg.png" width="52" />
-  <img src="./EndeavourOS_Logo.svg.png" width="52" />
-  <img src="./Garuda-purple.svg.png" width="52" />
-  <img src="./Icon_manjaro_rounded_2022.svg.png" width="52" />
+  <a href="https://archlinux.org/"><img src="./Arch_Linux__Crystal__icon.svg.png" width="52" /></a>
+  <a href="https://archcraft.io/"><img src="./Archcraft-alternative-logo.svg.png" width="52" /></a>
+  <a href="https://artixlinux.org/"><img src="./Artix_logo.svg.png" width="52" /></a>
+  <a href="https://cachyos.org/"><img src="./CachyOS_Logo.svg.png" width="52" /></a>
+  <a href="https://endeavouros.com/"><img src="./EndeavourOS_Logo.svg.png" width="52" /></a>
+  <a href="https://garudalinux.org/"><img src="./Garuda-purple.svg.png" width="52" /></a>
+  <a href="https://manjaro.org/"><img src="./Icon_manjaro_rounded_2022.svg.png" width="52" /></a>
 </p>
 
 ---
 
 ## 🌀 Debian-based
 <p align="center">
-  <img src="./Debian_logo.svg.png" width="52" />
-  <img src="./Kali_logo.svg.png" width="52" />
-  <img src="./Parrot_logo.svg.png" width="52" />
-  <img src="./Mint_logo.svg.png" width="52" />
-  <img src="./Zorin_logo.svg.png" width="52" />
-  <img src="./Tails_logo.svg.png" width="52" />
-  <img src="./PopOS_logo.svg.png" width="52" />
+  <a href="https://www.debian.org/"><img src="./Debian_logo.svg.png" width="52" /></a>
+  <a href="https://www.kali.org/"><img src="./Kali_logo.svg.png" width="52" /></a>
+  <a href="https://www.parrotsec.org/"><img src="./Parrot_logo.svg.png" width="52" /></a>
+  <a href="https://linuxmint.com/"><img src="./Mint_logo.svg.png" width="52" /></a>
+  <a href="https://zorin.com/"><img src="./Zorin_logo.svg.png" width="52" /></a>
+  <a href="https://tails.boum.org/"><img src="./Tails_logo.svg.png" width="52" /></a>
+  <a href="https://pop.system76.com/"><img src="./PopOS_logo.svg.png" width="52" /></a>
 </p>
 
 ---
 
 ## 🔵 Fedora-based
 <p align="center">
-  <img src="./Fedora_logo.svg.png" width="52" />
-  <img src="./Qubes_logo.svg.png" width="52" />
+  <a href="https://getfedora.org/"><img src="./Fedora_logo.svg.png" width="52" /></a>
+  <a href="https://www.qubes-os.org/"><img src="./Qubes_logo.svg.png" width="52" /></a>
 </p>
 
 ---
 
 ## 🧬 Gentoo-based
 <p align="center">
-  <img src="./Gentoo_logo.svg.png" width="52" />
+  <a href="https://www.gentoo.org/"><img src="./Gentoo_logo.svg.png" width="52" /></a>
 </p>
 
 ---
 
 ## 🧊 Other
 <p align="center">
-  <img src="./New_Logo_Alpine_Linux.svg.png" width="52" />
-  <img src="./Void_logo.svg.png" width="52" />
-  <img src="./Nix_Snowflake_Logo.svg.png" width="52" />
-  <img src="./Bedrock_logo.svg.png" width="52" />
+  <a href="https://alpinelinux.org/"><img src="./New_Logo_Alpine_Linux.svg.png" width="52" /></a>
+  <a href="https://voidlinux.org/"><img src="./Void_logo.svg.png" width="52" /></a>
+  <a href="https://nixos.org/"><img src="./Nix_Snowflake_Logo.svg.png" width="52" /></a>
+  <a href="https://bedrocklinux.org/"><img src="./Bedrock_logo.svg.png" width="52" /></a>
 </p>
 
 ---
