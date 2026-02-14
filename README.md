@@ -45,11 +45,11 @@
 <p align="center">
   <a href="https://www.debian.org/"><img src="./Ardebian_logo.svg.png" width="52" /></a>
   <a href="https://www.kali.org/"><img src="./Kali-dragon-icon.svg.png" width="52" /></a>
-  <a href="https://www.parrotsec.org/"><img src="./Parrot_logo.svg.png" width="52" /></a>
-  <a href="https://linuxmint.com/"><img src="./Mint_logo.svg.png" width="52" /></a>
-  <a href="https://zorin.com/"><img src="./Zorin_logo.svg.png" width="52" /></a>
-  <a href="https://tails.boum.org/"><img src="./Tails_logo.svg.png" width="52" /></a>
-  <a href="https://pop.system76.com/"><img src="./PopOS_logo.svg.png" width="52" /></a>
+  <a href="https://www.parrotsec.org/"><img src="./icons8-parrot-security-48.png" width="52" /></a>
+  <a href="https://linuxmint.com/"><img src="./Linux_Mint_logo_without_wordmark.svg.png" width="52" /></a>
+  <a href="https://zorin.com/"><img src="./Zorin_OS_7_logo.png" width="52" /></a>
+  <a href="https://tails.boum.org/"><img src="./tailsOS.png" width="52" /></a>
+  <a href="https://pop.system76.com/"><img src="./Pop!_OS_Icon.svg.png" width="52" /></a>
 </p>
 
 ---
