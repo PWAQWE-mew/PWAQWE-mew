@@ -26,7 +26,7 @@
 
 ---
 
-# 🐧 Distros I've tried
+# 🐧 Distros I've Tried
 
 ## 🏹 Arch-based
 <p align="center">
@@ -40,23 +40,27 @@
   <a href="https://manjaro.org/"><img src="./Icon_manjaro_rounded_2022.svg.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
-
 ---
 
 ## 🌀 Debian-based
 <p align="center">
   <a href="https://www.debian.org/"><img src="./Ardebian_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://ubuntu.com/"><img src="./Ubuntu.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://kubuntu.org/"><img src="./Kubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://xubuntu.org/"><img src="./Xubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.kali.org/"><img src="./Kali-dragon-icon.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.parrotsec.org/"><img src="./icons8-parrot-security-48.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://linuxmint.com/"><img src="./Linux_Mint_logo_without_wordmark.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://zorin.com/"><img src="./Zorin_OS_7_logo.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://tails.boum.org/"><img src="./tailsOS.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://pop.system76.com/"><img src="./Pop!_OS_Icon.svg.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
+---
+
+## 🟠 Ubuntu-based
+<p align="center">
+  <a href="https://ubuntu.com/"><img src="./Ubuntu.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://pop.system76.com/"><img src="./Pop!_OS_Icon.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://kubuntu.org/"><img src="./Kubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://xubuntu.org/"><img src="./Xubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+</p>
 
 ---
 
@@ -64,6 +68,8 @@
 <p align="center">
   <a href="https://getfedora.org/"><img src="./Fedora_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.qubes-os.org/"><img src="./Qubes_OS_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://bazzite.org/"><img src="./Bazzite_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://getfedora.org/en/workstation/nobara/"><img src="./Nobara.jpg" width="52" style="vertical-align: middle;" /></a>
 </p>
 
 ---
@@ -71,6 +77,7 @@
 ## 🧬 Gentoo-based
 <p align="center">
   <a href="https://www.gentoo.org/"><img src="./Gentoo_Linux_logo_matte.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://www.chromium.org/chromium-os"><img src="./Chromium_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
 ---
