@@ -30,51 +30,21 @@
 
 ## 🏹 Arch-based
 <p align="center">
-  <img src="./Arch_Linux__Crystal__icon.svg.png" width="52" />
-  <img src="./Archcraft-alternative-logo.svg.png" width="52" />
-  <img src="./Artix_logo.svg.png" width="52" />
-  <img src="./CachyOS_Logo.svg.png" width="52" />
-  <img src="./EndeavourOS_Logo.svg.png" width="52" />
-  <img src="./Garuda-purple.svg.png" width="52" />
-  <img src="./Icon_manjaro_rounded_2022.svg.png" width="52" />
-</p>
-
----
-
-## 🌀 Debian-based
-<p align="center">
-  <img src="./Debian_logo.svg.png" width="52" />
-  <img src="./Kali_logo.svg.png" width="52" />
-  <img src="./Parrot_logo.svg.png" width="52" />
-  <img src="./Mint_logo.svg.png" width="52" />
-  <img src="./Zorin_logo.svg.png" width="52" />
-  <img src="./Tails_logo.svg.png" width="52" />
-  <img src="./PopOS_logo.svg.png" width="52" />
-</p>
-
----
-
-## 🔵 Fedora-based
-<p align="center">
-  <img src="./Fedora_logo.svg.png" width="52" />
-  <img src="./Qubes_logo.svg.png" width="52" />
-</p>
-
----
-
-## 🧬 Gentoo-based
-<p align="center">
-  <img src="./Gentoo_logo.svg.png" width="52" />
+  <img src="./Arch_Linux__Crystal__icon.svg.png" width="52" alt="Arch Linux" />
+  <img src="./Archcraft-alternative-logo.svg.png" width="52" alt="Archcraft" />
+  <img src="./Artix_logo.svg.png" width="52" alt="Artix" />
+  <img src="./CachyOS_Logo.svg.png" width="52" alt="CachyOS" />
+  <img src="./EndeavourOS_Logo.svg.png" width="52" alt="EndeavourOS" />
+  <img src="./Garuda-purple.svg.png" width="52" alt="Garuda" />
+  <img src="./Icon_manjaro_rounded_2022.svg.png" width="52" alt="Manjaro" />
 </p>
 
 ---
 
 ## 🧊 Other
 <p align="center">
-  <img src="./New_Logo_Alpine_Linux.svg.png" width="52" />
-  <img src="./Void_logo.svg.png" width="52" />
-  <img src="./Nix_Snowflake_Logo.svg.png" width="52" />
-  <img src="./Bedrock_logo.svg.png" width="52" />
+  <img src="./New_Logo_Alpine_Linux.svg.png" width="52" alt="Alpine Linux" />
+  <img src="./Nix_Snowflake_Logo.svg.png" width="52" alt="NixOS" />
 </p>
 
 ---
