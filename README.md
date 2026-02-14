@@ -71,7 +71,7 @@
 
 ## 🧊 Other
 <p align="center">
-  <a href="https://alpinelinux.org/"><img src="./New_Logo_Alpine_Linux.svg.png" width="52" /></a>
+  <a href="https://alpinelinux.org/"><img src="./alpinelinux-icon (1).png" width="52" /></a>
   <a href="https://voidlinux.org/"><img src="./Void_Linux_logo.svg.png" width="52" /></a>
   <a href="https://nixos.org/"><img src="./Nix_Snowflake_Logo.svg.png" width="52" /></a>
   <a href="https://bedrocklinux.org/"><img src="./5713885.png" width="52" /></a>
