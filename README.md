@@ -33,11 +33,13 @@
   <a href="https://archlinux.org/"><img src="./Arch_Linux__Crystal__icon.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://archcraft.io/"><img src="./Archcraft-alternative-logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://artixlinux.org/"><img src="./Artix_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://www.blackarch.org/"><img src="./black_arch_logo-2880817666-removebg-preview.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://cachyos.org/"><img src="./CachyOS_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://endeavouros.com/"><img src="./EndeavourOS_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://garudalinux.org/"><img src="./Garuda-purple.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://manjaro.org/"><img src="./Icon_manjaro_rounded_2022.svg.png" width="52" style="vertical-align: middle;" /></a>
 </p>
+
 
 ---
 
