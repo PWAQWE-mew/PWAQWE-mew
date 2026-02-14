@@ -26,7 +26,7 @@
 
 ---
 
-# 🐧 Distros i've tried
+# 🐧 Distros I've tried
 
 ## 🏹 Arch-based
 <p align="center">
