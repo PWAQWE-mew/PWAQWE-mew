@@ -46,7 +46,7 @@
 ## 🌀 Debian-based
 <p align="center">
   <a href="https://www.debian.org/"><img src="./Ardebian_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://ubuntu.com/"><img src="./Ubuntu.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://ubuntu.com/"><img src="./Ubuntu.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://kubuntu.org/"><img src="./Kubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://xubuntu.org/"><img src="./Xubuntu_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.kali.org/"><img src="./Kali-dragon-icon.svg.png" width="52" style="vertical-align: middle;" /></a>
