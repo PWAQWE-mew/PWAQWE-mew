@@ -43,8 +43,8 @@
 
 ## 🌀 Debian-based
 <p align="center">
-  <a href="https://www.debian.org/"><img src="./Debian_logo.svg.png" width="52" /></a>
-  <a href="https://www.kali.org/"><img src="./Kali_logo.svg.png" width="52" /></a>
+  <a href="https://www.debian.org/"><img src="./Ardebian_logo.svg.png" width="52" /></a>
+  <a href="https://www.kali.org/"><img src="./Kali-dragon-icon.svg.png" width="52" /></a>
   <a href="https://www.parrotsec.org/"><img src="./Parrot_logo.svg.png" width="52" /></a>
   <a href="https://linuxmint.com/"><img src="./Mint_logo.svg.png" width="52" /></a>
   <a href="https://zorin.com/"><img src="./Zorin_logo.svg.png" width="52" /></a>
