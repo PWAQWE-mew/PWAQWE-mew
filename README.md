@@ -26,7 +26,7 @@
 
 ---
 
-# 🐧 Distro Hopper
+# 🐧 Distros i've tried
 
 ## 🏹 Arch-based
 <p align="center">
