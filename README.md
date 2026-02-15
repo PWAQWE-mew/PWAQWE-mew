@@ -45,7 +45,7 @@
 ## 🌀 Debian-based
 <p align="center">
   <a href="https://www.debian.org/"><img src="./Ardebian_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://www.linuxmint.com/edition.php?id=lmde"><img src="./Linux_Mint_Debian_Edition.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://www.linuxmint.com/download_lmde.php"><img src="./Linux_Mint_Debian_Edition.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.kali.org/"><img src="./Kali-dragon-icon.svg.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
