@@ -68,7 +68,7 @@
 <p align="center">
   <a href="https://getfedora.org/"><img src="./Fedora_logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://www.qubes-os.org/"><img src="./Qubes_OS_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
-  <a href="https://bazzite.org/"><img src="./Bazzite_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
+  <a href="https://bazzite.gg/#"><img src="./Bazzite_Logo.svg.png" width="52" style="vertical-align: middle;" /></a>
   <a href="https://nobaraproject.org/"><img src="./Nobara.png" width="52" style="vertical-align: middle;" /></a>
 </p>
 
